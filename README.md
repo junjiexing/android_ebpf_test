@@ -13,3 +13,4 @@ export GOARCH=arm64
 export GOOS=android
 go build
 ```
+修改自cilium/ebpf的example：[ringbuf](https://github.com/cilium/ebpf/tree/master/examples/ringbuffer)。
